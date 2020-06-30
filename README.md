@@ -1,6 +1,6 @@
 # Sterowanie Procesami Dyskretnymi
 
-Na potzreby zajęć utworzone zostały implementacje algorytmów wyznaczania permutacji w zadaniach jedno i wielo maszynowych. Zaimplementowano algorytmy :
+Na potrzeby zajęć utworzone zostały implementacje algorytmów wyznaczania permutacji w zadaniach jedno i wielo maszynowych. Zaimplementowano algorytmy w języku C# w środowisku Unity 3D :
 * Shrage
 * Calier
 * Drute foce i dynamiczny 
